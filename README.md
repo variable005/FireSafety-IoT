@@ -102,16 +102,16 @@ The FireSafety-IoT system simulation, layout, and hardware setup are shown below
 *Figure 2: Breadboard layout showing sensor connections and wiring.*
 
 ![Demo 6: NeoPixel ring visual alert](demo6.png)  
-*Figure 3: NeoPixel ring glowing red when fire is detected.*
+*Figure 3: gas sensor.*
 
 ![Demo 7: OLED1 displaying fire status](demo7.png)  
-*Figure 4: OLED1 showing fire alert, motion detection, and buzzer status.*
+*Figure 4: OLED1 showing fire alert,editing dh22.*
 
 ![Demo 8: OLED2 displaying sensor logs](demo8.png)  
 *Figure 5: OLED2 showing real-time temperature, humidity, smoke, and motion readings.*
 
 ![Demo 9: Full system setup](demo9.png)  
-*Figure 6: Complete FireSafety-IoT hardware setup.*
+*Figure 6: PIR motion.*
 
 
 **Power Requirements:**
