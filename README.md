@@ -95,22 +95,22 @@ The FireSafety-IoT system simulation, layout, and hardware setup are shown below
 
 **Simulation and Layout:**
 
-![Demo 1: Wokwi simulation of FireSafety System](images/demo1.png)  
+![Demo 1: Wokwi simulation of FireSafety System](demo1.png)  
 *Figure 1: ESP32-S2 with sensors, NeoPixel ring, and dual OLED displays.*
 
-![Demo 4: Breadboard component arrangement](images/demo4.png)  
+![Demo 4: Breadboard component arrangement](demo4.png)  
 *Figure 2: Breadboard layout showing sensor connections and wiring.*
 
-![Demo 6: NeoPixel ring visual alert](images/demo6.png)  
+![Demo 6: NeoPixel ring visual alert](demo6.png)  
 *Figure 3: NeoPixel ring glowing red when fire is detected.*
 
-![Demo 7: OLED1 displaying fire status](images/demo7.png)  
+![Demo 7: OLED1 displaying fire status](demo7.png)  
 *Figure 4: OLED1 showing fire alert, motion detection, and buzzer status.*
 
-![Demo 8: OLED2 displaying sensor logs](images/demo8.png)  
+![Demo 8: OLED2 displaying sensor logs](demo8.png)  
 *Figure 5: OLED2 showing real-time temperature, humidity, smoke, and motion readings.*
 
-![Demo 9: Full system setup](images/demo9.png)  
+![Demo 9: Full system setup](demo9.png)  
 *Figure 6: Complete FireSafety-IoT hardware setup.*
 
 
